@@ -13,7 +13,7 @@ My_Bank — это консольное приложение для анализ
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/TOLIKLOL777/Course_python.git
+   git clone https://github.com/SOSUY/Kurcovaya.git
    ```
 2. **Установите зависимости:**
     ```bash
